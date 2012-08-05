@@ -1,0 +1,7 @@
+#git ignore file. Exclude sensitive files/folders
+
+config.php
+_backup
+assets
+log
+mail/backup
